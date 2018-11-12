@@ -1,4 +1,4 @@
 Copyright
 =========
 
-.. literalinclude:: ../COPYRIGHT
+.. literalinclude:: ../LICENSE
